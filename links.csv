@@ -1,0 +1,4 @@
+config/zsh/.zshrc,$HOME/.zshrc,zshrc
+config/x11/.xinitrc,$HOME/.xinitrc,xinitrc
+config/Cursor/User/settings.json,$HOME/.config/Cursor/User/settings.json,Cursor settings
+config/Cursor/User/keybindings.json,$HOME/.config/Cursor/User/keybindings.json,Cursor keybindings
