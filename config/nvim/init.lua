@@ -41,6 +41,7 @@ vim.g.mapleader = ' '          -- Set space as leader key
 -- Basic keymaps
 vim.keymap.set('n', '<leader>w', ':w<CR>', { desc = 'Save file' })
 vim.keymap.set('n', '<leader>q', ':q<CR>', { desc = 'Quit' })
+vim.keymap.set('n', '<leader>x', ':qa<CR>', { desc = 'Exit (quit all)' })
 vim.keymap.set('n', '<Esc>', ':nohlsearch<CR>', { desc = 'Clear search highlight' })
 
 -- Window navigation
