@@ -52,3 +52,5 @@ setopt no_beep
 alias p="paru"
 
 source /usr/share/nvm/init-nvm.sh
+
+alias x='startx'
